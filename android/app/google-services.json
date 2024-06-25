@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376011811805",
+    "project_id": "dbappfruit",
+    "storage_bucket": "dbappfruit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376011811805:android:30935620fe4b7f3b496434",
+        "android_client_info": {
+          "package_name": "com.appfruit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdHecutldCwuAkJGrEVmG7ntvGaI3PgIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
